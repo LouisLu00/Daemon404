@@ -20,11 +20,16 @@ npm install
 ```
 
 ## Files:
-index.html: Text Enhancer UI
-translation.js: Functions for Translation
-highlight.js: Functions for Key Information Highlighter
-readability.js: Functions for Readability Check
-tone.js: Functions for Tone/Style Adjustment
+index.html: Text Enhancer UI  
+
+translation.js: Functions for Translation  
+
+highlight.js: Functions for Key Information Highlighter  
+
+readability.js: Functions for Readability Check  
+
+tone.js: Functions for Tone/Style Adjustment  
+
 server.js: Backend server for the GPT4 API, currently running on AWS EC2
 
 ## Usage
